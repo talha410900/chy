@@ -1,4 +1,4 @@
-import HeroImage from 'assets/section-2.png'
+import HeroImage from 'assets/section-2.jpg'
 import Image from 'next/image'
 export default function Section2() {
     return (<>

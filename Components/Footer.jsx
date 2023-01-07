@@ -21,7 +21,20 @@ export default function Footer() {
                                 href="#"
                                 class="block text-2xl font-medium text-gray-900 hover:opacity-75 sm:text-3xl"
                             >
-                                626-281-8887
+                                949-301-9953
+                            </a>
+                            <a
+                                href="#"
+                                class="block text-2xl font-medium text-gray-900 hover:opacity-75 sm:text-3xl"
+                            >
+                                949-301-9954
+                            </a>
+                            <a
+                                href="#"
+                                class="block text-2xl font-medium text-gray-900 hover:opacity-75 sm:text-3xl"
+                            >
+                                949-301-9956
+
                             </a>
                         </p>
 

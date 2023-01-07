@@ -40,13 +40,13 @@ export default function NavBar() {
                             </Popover.Button>
                             <Popover.Panel className="absolute z-10">
                                 <div
-                                    class=" z-10 mt-4 w-56 origin-top-right rounded-md border border-gray-100 bg-white shadow-lg"
+                                    className=" z-10 mt-4 w-56 origin-top-right rounded-md border border-gray-100 bg-white shadow-lg"
                                     role="menu"
                                 >
-                                    <div class="p-2">
+                                    <div className="p-2">
                                         <a
                                             href="#"
-                                            class="block rounded-lg px-4 py-2 text-sm text-gray-500 hover:bg-gray-50 hover:text-gray-700"
+                                            className="block rounded-lg px-4 py-2 text-sm text-gray-500 hover:bg-gray-50 hover:text-gray-700"
                                             role="menuitem"
                                         >
                                             Tax & Accounting
@@ -54,7 +54,7 @@ export default function NavBar() {
 
                                         <a
                                             href="#"
-                                            class="block rounded-lg px-4 py-2 text-sm text-gray-500 hover:bg-gray-50 hover:text-gray-700"
+                                            className="block rounded-lg px-4 py-2 text-sm text-gray-500 hover:bg-gray-50 hover:text-gray-700"
                                             role="menuitem"
                                         >
                                             Bussiness
@@ -62,7 +62,7 @@ export default function NavBar() {
 
                                         <a
                                             href="#"
-                                            class="block rounded-lg px-4 py-2 text-sm text-gray-500 hover:bg-gray-50 hover:text-gray-700"
+                                            className="block rounded-lg px-4 py-2 text-sm text-gray-500 hover:bg-gray-50 hover:text-gray-700"
                                             role="menuitem"
                                         >
                                             Finance
@@ -70,7 +70,7 @@ export default function NavBar() {
 
                                         <a
                                             href="#"
-                                            class="block rounded-lg px-4 py-2 text-sm text-gray-500 hover:bg-gray-50 hover:text-gray-700"
+                                            className="block rounded-lg px-4 py-2 text-sm text-gray-500 hover:bg-gray-50 hover:text-gray-700"
                                             role="menuitem"
                                         >
                                             Real Estate
@@ -78,7 +78,7 @@ export default function NavBar() {
 
                                         <a
                                             href="#"
-                                            class="block rounded-lg px-4 py-2 text-sm text-gray-500 hover:bg-gray-50 hover:text-gray-700"
+                                            className="block rounded-lg px-4 py-2 text-sm text-gray-500 hover:bg-gray-50 hover:text-gray-700"
                                             role="menuitem"
                                         >
                                             Immigration

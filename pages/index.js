@@ -10,6 +10,9 @@ import Footer from 'Components/Footer'
 import Section4 from 'Components/Section4'
 import Section5 from 'Components/Section5'
 import Section6 from 'Components/Section6'
+import Services from 'Components/Services'
+import { InlineWidget } from 'react-calendly'
+import BookAppointement from 'Components/BookAppointment'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -27,11 +30,13 @@ export default function Home() {
       <Section1 />
       <div className="max-w-[1280px] mx-auto px-4">
         <Section4 />
+        <Services />
       </div>
-      <Section2 />
-      <Section5 />
-      <Section6 />
+      <BookAppointement />
+      {/* <Section2 /> */}
 
+      <Section6 />
+      <Section5 />
       <Section3 />
       <Footer />
     </>

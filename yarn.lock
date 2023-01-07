@@ -610,6 +610,11 @@ raf@^3.4.0:
   dependencies:
     performance-now "^2.1.0"
 
+react-calendly@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/react-calendly/-/react-calendly-4.1.0.tgz#418ad8daad3b1972786c78f20cc9e13b7bd29b12"
+  integrity sha512-a4/yHZwwmuEgUZOfRh0Hs5lt96WSlWI3GQ0fNWWUnKN11YjR5E0fq4YZSMZ3Cas8FVcdoM88JSnNPbZoeLzbtQ==
+
 react-countup@^6.4.0:
   version "6.4.0"
   resolved "https://registry.yarnpkg.com/react-countup/-/react-countup-6.4.0.tgz#f18d24e40c37c465b29353172cc8b3b5e82f3241"
@@ -625,6 +630,11 @@ react-dom@18.2.0:
   dependencies:
     loose-envify "^1.1.0"
     scheduler "^0.23.0"
+
+react-icons@^4.7.1:
+  version "4.7.1"
+  resolved "https://registry.yarnpkg.com/react-icons/-/react-icons-4.7.1.tgz#0f4b25a5694e6972677cb189d2a72eabea7a8345"
+  integrity sha512-yHd3oKGMgm7zxo3EA7H2n7vxSoiGmHk5t6Ou4bXsfcgWyhfDKMpyKfhHR6Bjnn63c+YXBLBPUql9H4wPJM6sXw==
 
 react-is@^16.13.1:
   version "16.13.1"
