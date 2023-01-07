@@ -5,7 +5,7 @@ export default function BookAppointement() {
     return (
         <>
             <div className="container my-10  mx-auto">
-                <section className="mb-32 text-gray-800">
+                <section className=" text-gray-800">
                     <div className="flex flex-wrap items-center">
                         <div className="grow-0 shrink-0 basis-auto w-full lg:w-7/12 mb-12 lg:mb-0 md:pr-6">
                             <div className="relative overflow-hidden bg-no-repeat bg-cover rounded-lg shadow-lg" data-mdb-ripple="true"

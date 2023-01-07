@@ -35,7 +35,7 @@ export default function Home() {
       <BookAppointement />
       {/* <Section2 /> */}
 
-      <Section6 />
+      {/* <Section6 /> */}
       <Section5 />
       <Section3 />
       <Footer />
