@@ -3,12 +3,11 @@ import React from "react";
 import logo from '../assets/logo.png'
 import { Popover } from '@headlessui/react'
 import { Menu, Transition } from '@headlessui/react'
-import { Fragment, useEffect, useRef, useState } from 'react'
+import { Fragment } from 'react'
 import { FaBars } from 'react-icons/fa'
 
 export default function Languages() {
     return (
-
         <>
             <div className=" w-full shadow-lg hidden md:flex relative z-[99]">
                 <div className="max-w-[1280px] mx-auto px-4">
