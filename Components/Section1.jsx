@@ -1,4 +1,4 @@
-import HeroImage from 'assets/section-1.png'
+import HeroImage from 'assets/section-1.jpg'
 import Image from 'next/image';
 import Typewriter from 'typewriter-effect';
 
